@@ -28,10 +28,10 @@ Aplikasi fullstack katalog barang bekas menggunakan **React + Vite** (Frontend) 
 
 | Method | Endpoint | Keterangan | Bukti Screenshot |
 | :--- | :--- | :--- | :--- |
-| `GET` | `/produk` | Menampilkan semua daftar produk | ![GET](./screenshots/GET.png) |
-| `GET` | `/produk/:id` | Menampilkan detail satu produk | ![GET ID](./screenshots/GET-1.png) |
-| `POST` | `/produk` | Menambahkan produk baru | ![POST](./screenshots/POST.png) |
-| `PATCH` | `/produk/:id` | Memperbarui data/status produk | ![PATCH](./screenshots/PATCH.png) |
-| `DELETE` | `/produk/:id` | Menghapus produk | ![DELETE](./screenshots/DELETE.png) |
-| `POST` | `/produk` | Validasi DTO gagal (`400 Bad Request`) | ![400](./screenshots/BAD%20REQ.png) |
-| `POST` | `/produk` | Data duplikat (`409 Conflict`) | ![409](./screenshots/CONFLICT.png) |
+| `GET` | `/produk` | Menampilkan semua daftar produk | ![GET](./Screenshots/GET.png) |
+| `GET` | `/produk/:id` | Menampilkan detail satu produk | ![GET ID](./Screenshots/GET-1.png) |
+| `POST` | `/produk` | Menambahkan produk baru | ![POST](./Screenshots/POST.png) |
+| `PATCH` | `/produk/:id` | Memperbarui data/status produk | ![PATCH](./Screenshots/PATCH.png) |
+| `DELETE` | `/produk/:id` | Menghapus produk | ![DELETE](./Screenshots/DELETE.png) |
+| `POST` | `/produk` | Validasi DTO gagal (`400 Bad Request`) | ![400](./Screenshots/BAD%20REQ.png) |
+| `POST` | `/produk` | Data duplikat (`409 Conflict`) | ![409](./Screenshots/CONFLICT.png) |
